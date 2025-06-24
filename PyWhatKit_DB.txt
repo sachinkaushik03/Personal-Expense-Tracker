@@ -1,0 +1,30 @@
+Date: 19/6/2025
+Time: 20:33
+Phone Number: +919636399501
+Message: Hi, this message is sent instantly!
+--------------------
+Date: 19/6/2025
+Time: 20:34
+Phone Number: +919636399501
+Message: Hi, this message is sent instantly!
+--------------------
+Date: 19/6/2025
+Time: 20:41
+Phone Number: +919636399501
+Message: Hi! This is an automated message sent using pywhatkit.
+--------------------
+Date: 19/6/2025
+Time: 20:41
+Phone Number: +919636399501
+Message: Hi! This is an automated message sent using pywhatkit.
+--------------------
+Date: 19/6/2025
+Time: 20:42
+Phone Number: +919636399501
+Message: Hi! This is an automated message sent using pywhatkit.
+--------------------
+Date: 19/6/2025
+Time: 22:21
+Phone Number: +918529074767
+Message: Hi! This is an automated message sent using pywhatkit.
+--------------------
